@@ -1,0 +1,59 @@
+@import url(./classes/classes.css);
+
+
+
+nav{
+
+    height: 50px;
+    width: 100%;
+    background-color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 800;
+
+}
+
+#screen{
+
+    width: 100%;
+    background-color: #eee;
+
+}
+
+/*!  Screen Content Styling */
+
+
+/** Product searching   */
+#f_product_search{
+
+    /*! Controls the "container" of the search input and adding product button */
+    height: 60px;
+
+}
+
+
+/** Sort Product By  */
+
+#f_product_result_sort{
+
+    height: 60px;
+
+}
+
+
+/* *  Adding Product Nice Border */
+
+#f_adding-products form{
+
+    border:1px solid #eee ;
+    box-shadow: 0 0 70px 1px rgba(51, 51, 51, 0.192);
+
+}
+
+/** Filter By Cetagory  */
+
+#f_filter_cetagory{
+
+    height: 60px;
+
+}

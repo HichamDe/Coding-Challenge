@@ -1,0 +1,286 @@
+/* Default */
+
+input, button, a ,p ,h1 ,textarea ,
+h2{
+
+    outline: none;
+    border: none;
+    color: #333;
+    text-decoration: none;
+    font-family: sans-serif;
+
+}
+
+/*! width Changes  */
+
+.pco_w100{
+
+    width: 100%;
+
+}
+.pco_w50{
+
+    width: 50%;
+
+}
+.pco_w60{
+
+    width: 60%;
+
+}
+.pco_w80{
+
+    width: 80%;
+
+}
+.pco_w20{
+
+    width: 20%;
+
+}
+.pco_w25{
+
+    width: 25%;
+
+}
+.pco_w30{
+
+    width: 30%;
+
+}
+.pco_w15{
+
+    width: 15%;
+
+}
+.pco_w70{
+
+    width: 70%;
+
+}
+.pco_w85{
+
+    width: 85%;
+
+}
+.pco_w90{
+
+    width: 90%;
+
+}
+
+/*! height Changes  */
+
+.pco_h100{
+
+    height: 100%;
+
+}
+.pco_h50{
+
+    height: 50%;
+
+}
+.pco_h80{
+
+    height: 80%;
+
+}
+.pco_h90{
+
+    height: 90%;
+
+}
+.pco_h20{
+
+    height: 20%;
+
+}
+.pco_h10{
+
+    height: 10%;
+
+}
+.pco_h30{
+
+    height: 30%;
+
+}
+.pco_h15{
+
+    height: 15%;
+
+}
+.pco_h85{
+
+    height: 85%;
+
+}
+
+.pco_h60{
+
+    height: 60%;
+
+}
+
+.pco_h70{
+
+    height: 70%;
+
+}
+/*! Positions  */
+
+.right{
+
+    float: right;
+
+}
+.left{
+
+    float: left;
+
+}
+.flex-m{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.flex-tr{
+
+    /* top right */
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+
+}
+
+.flex-tl{
+
+    /* top left */
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+}
+.flex-bl{
+
+    /* bottom left */
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+
+}
+.flex-br{
+
+    /* bottom right */
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+}
+.flex-mr{
+
+    /* middle right */
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+.flex-ml{
+
+    /* middle left */
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+/* Testing */
+
+.br-black{
+
+    border: 1px solid black;
+
+}
+.br-white{
+
+    border: 1px solid white;
+
+}
+.bckgrnd-black{
+
+    background-color: black;
+
+}
+
+
+/* Spacing */
+
+.mrgn-0uto{
+
+    margin: 0 auto;
+
+}
+.mrgn-t-10{
+
+    margin-top: 10px;
+
+}
+.pddn-10{
+
+    padding: 10px;
+
+}
+/*! Inputs */
+
+.input{
+
+    border: 1px solid #eee;
+    padding-left:5px;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+
+.button{
+
+    border: 1px solid #eee;
+    font-weight: 700;
+    cursor: pointer;
+    background-color: white;
+
+}
+
+/*! Border Radius */
+
+.border-radius{
+
+    border-radius: 10px;
+
+}
+
+/* ! Font-sizes and text styles */
+
+.fontS-20-snsrif-bold{
+
+    font-size:20px;
+    font-family: sans-serif;
+    font-weight: 800;
+
+}
+
+
+.fontS-18-snsrif{
+
+    font-size:18px;
+    font-family: sans-serif;
+    font-weight: 600;
+
+}
